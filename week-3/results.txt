@@ -1,12 +1,12 @@
 Student 1:
-Name   : muslim
-Course : cs
+Name   : Bilyaminu Ahmad
+Course : Computer Science
 Score  : 78
 Grade  : C
 ------------------------
 Student 2:
-Name   : imran
-Course : bio
+Name   : imran Ibrahim
+Course : biology
 Score  : 44
 Grade  : F
 ------------------------
