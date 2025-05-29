@@ -1,0 +1,12 @@
+Student 1:
+Name   : muslim
+Course : cs
+Score  : 78
+Grade  : C
+------------------------
+Student 2:
+Name   : imran
+Course : bio
+Score  : 44
+Grade  : F
+------------------------
