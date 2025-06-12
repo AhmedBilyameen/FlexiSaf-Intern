@@ -1,12 +1,22 @@
 Student 1:
+<<<<<<< HEAD
 Name   : muslim
 Course : cs
+=======
+Name   : Bilyaminu Ahmad
+Course : Computer Science
+>>>>>>> 9a2d34e2a936b76336a16973ed97c9c0fcc5efbe
 Score  : 78
 Grade  : C
 ------------------------
 Student 2:
+<<<<<<< HEAD
 Name   : imran
 Course : bio
+=======
+Name   : imran Ibrahim
+Course : biology
+>>>>>>> 9a2d34e2a936b76336a16973ed97c9c0fcc5efbe
 Score  : 44
 Grade  : F
 ------------------------

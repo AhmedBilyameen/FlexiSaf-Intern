@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📘 Student Grade Evaluator - Java Console App
 
 A simple but powerful Java console application that evaluates students’ grades based on their scores. This project demonstrates fundamental Java concepts such as:
@@ -63,3 +64,70 @@ Bilyaminu Ahmad
 
 This project is open source and available under the MIT License.
 
+=======
+📘 Student Grade Evaluator - Java Console App
+
+A simple but powerful Java console application that evaluates students’ grades based on their scores. This project demonstrates fundamental Java concepts such as:
+
+- Variables and fields
+- If-else conditional logic
+- Loops
+- Input/output with `Scanner`
+- File handling using `FileWriter`
+
+💡 Features
+
+- Accepts multiple students’ data
+- Validates score inputs (0 - 100)
+- Assigns grades based on score ranges
+- Displays results in the console
+- Saves student reports to a file (`results.txt`)
+
+🧠 Grading Criteria
+
+| Score       | Grade |
+|-------------|-------|
+| 90 - 100    | A     |
+| 80 - 89     | B     |
+| 70 - 79     | C     |
+| 60 - 69     | D     |
+| Below 60    | F     |
+
+🛠️ How to Run
+
+1. Clone the repository:
+   
+   git clone https://github.com/your-username/student-grade evaluator.git
+   cd student-grade-evaluator
+
+2. Compile the Java file:
+
+   javac StudentGradeEvaluator.java
+
+3. Run the program:
+
+   java StudentGradeEvaluator
+
+4. Check the `results.txt` file in the project directory for saved reports.
+
+📂 Output Example
+
+Enter student name: Aisha
+Enter course name: Java Programming
+Enter score (0-100): 85
+
+=== Student Grade Report ===
+Name   : Aisha
+Course : Java Programming
+Score  : 85
+Grade  : B
+
+✍️ Author
+Bilyaminu Ahmad
+  Java Developer | FlexiSAF Internship
+
+📄 License
+
+This project is open source and available under the MIT License.
+
+>>>>>>> 9a2d34e2a936b76336a16973ed97c9c0fcc5efbe

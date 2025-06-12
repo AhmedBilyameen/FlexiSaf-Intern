@@ -17,11 +17,11 @@ public class TimePlannerApp {
 
         System.out.println("⏳ You have " + remaining + " hour(s) remaining today.");
 
-        System.out.print("Enter a task you want to do: ");
+        System.out.print("Enter a task you want to do (String Only): ");
         scanner.nextLine();
         String task = scanner.nextLine();
 
-        System.out.print("Enter how many hours you want to spend on this task: ");
+        System.out.print("Enter how many hours you want to spend on this task (Numbers Only): ");
         int taskHours = scanner.nextInt();
 
         if (taskHours > remaining) {
