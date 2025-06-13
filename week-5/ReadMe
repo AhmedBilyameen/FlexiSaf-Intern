@@ -1,0 +1,43 @@
+🕒 TimePlanner Interface App
+
+A simple and helpful Java console app that calculates your remaining hours in a day and suggests time management improvements.
+
+
+💼 Description
+
+Created for **Week 5 of the FlexiSAF Java Internship**, this project focuses on using interfaces in Java.
+It defines a planner interface with two core methods and implements them in a class that interacts with users
+to plan their time efficiently.
+
+
+
+🔍 Features
+
+- Interface with two methods:
+  - `calculateRemainingHours(int usedHours)`
+  - `suggestAdjustment(String task, int hours)`
+- Real-time user input and decision-making
+- Clean, modular code for beginners
+- Encourages good time management habits
+
+
+🛠 Technologies
+
+- Java 8+
+- Console Input (Scanner)
+
+
+📁 Project Structure
+
+TimePlanner/
+├── DailyPlanner.java
+├── SimplePlanner.java
+└── TimePlannerApp.java
+
+
+‍💻 Author -- Bilyaminu Ahmad
+
+
+🔖 License
+
+Open-source, for learning and practice.
